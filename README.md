@@ -1,14 +1,15 @@
 <div id = header algin = "center">
   <h1>Hey there 👩🏻‍💻👋</h1>
 </div>
+<div>
 I'm Betty and it's nice seeing you here!
 
 - 🏫 I'm currently a Computer Science student at the University of Guelph
 - 💡 I like creating solutions for my hobbies such as hair and beauty!
 - 💻 I'm currently working on my portfolio website and hairstylist website which simplifies service cost calculations
-
-### :hammer_and_wrench: Languages and Tools :
+</div>
 <div>
+  <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/> &nbsp;
