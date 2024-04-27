@@ -1,5 +1,6 @@
-### Hey there 👩🏻‍💻👋
-
+<div id = header algin = "center">
+  <h1>Hey there 👩🏻‍💻👋</h1>
+</div>
 I'm Betty and it's nice seeing you here!
 
 - 🏫 I'm currently a Computer Science student at the University of Guelph
