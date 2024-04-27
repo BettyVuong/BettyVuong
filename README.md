@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there 👩🏻‍💻👋
 
-<!--
-**BettyVuong/BettyVuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Betty and it's nice seeing you here!
 
-Here are some ideas to get you started:
+- 🏫 I'm currently a Computer Science student at the University of Guelph
+- 💡 I like creating solutions for my hobbies such as hair and beauty!
+- 💻 I'm currently working on my portfolio website and hairstylist website which simplifies service cost calculations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg"width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
+</div>
+
