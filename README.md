@@ -6,7 +6,7 @@ I'm Betty and it's nice seeing you here!
 
 - 🏫 I'm currently a Computer Science student at the University of Guelph
 - 💡 I like creating solutions for my hobbies such as hair and beauty!
-- 💻 I'm currently working on my portfolio website and hairstylist website which simplifies service cost calculations
+- 💻 I'm currently working on my personal blog website and hairstylist application which simplifies service cost calculations
 </div>
 <div>
   <h3>:hammer_and_wrench: Languages and Tools :</h3>
